@@ -1,0 +1,39 @@
+{
+  "client": {
+    "bobjoe2007@gmail\\com": {
+      "address": "300 donald sim avenue",
+      "date_joined": "2007-02-02",
+      "f_name": "bob",
+      "l_name": "joe",
+      "p_number": 1231231234
+    },
+    "fgao2007@gmail\\com": {
+      "address": "300 donald sim avenue",
+      "date_joined": "2007-02-02",
+      "f_name": "felix",
+      "l_name": "gao",
+      "p_number": 1231231234
+    },
+    "mwee2007@gmail\\com": {
+      "address": "300 donald sim avenue",
+      "date_joined": "2007-02-02",
+      "f_name": "malachi",
+      "l_name": "wee",
+      "p_number": 1231231234
+    }
+  },
+  "employee": {
+    "aabid2007@gmail\\com": {
+      "f_name": "ali",
+      "l_name": "abid",
+      "p_number": 1231231234,
+      "permission": 1
+    },
+    "sputtagunta2007@gmail\\com": {
+      "f_name": "seysha",
+      "l_name": "puttagunta",
+      "p_number": 1231231234,
+      "permission": 0
+    }
+  }
+}
